@@ -1,3 +1,3 @@
-# minigrep
+# MiniGrep
 
-Minigrep is the tutorial for rust program.
+MiniGrep is the lite implementation of the unix command 'grep'.
